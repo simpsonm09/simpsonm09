@@ -1,4 +1,4 @@
-<header>Welcome to my Github page!</header>
+<p>Welcome to my Github page!</p>
 
 <p>Software Developer | Data Enthusiast | Gamer | Cat Lover</p>
 
