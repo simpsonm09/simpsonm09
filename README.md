@@ -3,8 +3,9 @@ Welcome to my Github page!
 Software Developer | Data Enthusiast | Gamer | Cat Lover
 
 Please feel free to reach out to me through LinkedIn or Email:
-LinkedIn: https://www.linkedin.com/in/maxwellsimpson/
-Email: simpsonm09@gmail.com
+
+LinkedIn: <a href="https://www.linkedin.com/in/maxwellsimpson/">maxwellsimpson</a>
+Email: <a href="mailto:simpsonm09@gmail.com">simpsonm09@gmail.com</a>
 
 Technologies I'm familiar with:
 
