@@ -1,27 +1,30 @@
-<<<<<<< HEAD
 <head>
 <link rel="stylesheet" href="style.css">
 </head>
 
-=======
->>>>>>> 8d04b29aa6f887d88a8aec7a99ed2a40423553ac
-<p>Welcome to my Github page!</p>
+<h1>Welcome to my Github page!</h1>
 
 <p>Software Developer | Data Enthusiast | Gamer | Cat Lover</p>
 
-<p>Please feel free to reach out to me through LinkedIn or Email:</p>
+<br>
+
+<h3>Please feel free to reach out to me through LinkedIn or Email:</h3>
 
 <p>LinkedIn: <a href="https://www.linkedin.com/in/maxwellsimpson/">maxwellsimpson</a></p>
 <p>Email: <a href="mailto:simpsonm09@gmail.com">simpsonm09@gmail.com</a></p>
 
-<p>Technologies I'm familiar with:</p>
+<br>
+
+<h3>Technologies I'm familiar with:</h3>
 
 <p>Object-Oriented Programming: Java</p>
 <p>Web Application Development: HTML, CSS, JavaScript, Spring Boot, Vue.js</p>
 <p>Database Programming: JDBC, Table Design, SQL, PostgreSQL, E/R diagrams, Intersystems Caché</p>
 <p>Development Tools and Techniques: Agile, Unit Testing (JUnit), Integration Testing, Git, IntelliJ</p>
 
-<p>About Me:</p>
+<br>
+
+<h3>About Me:</h3>
 
 <p>I have always been fascinated with technology. As a child, I was an avid video gamer and enjoyed tinkering and challenging game systems. As I got older, I became more interested in computers and started building my own PCs. I enjoy creating tools to help improve others' outcomes with technology. In my previous position as a Technical Solutions Engineer at Epic, I developed software enhancements, bug-fixes, and other internal software troubleshooting tools in the Intersystems Caché database language to support our customers and coworkers. I'm passionate about creating and enhancing software to help users embrace technology and improve their lives. From this, I am looking for a position as a Software Developer where I can continue to enrich others and challenge myself, as well as bringing an analytical and personable eye to the products I work on.</p>
 
