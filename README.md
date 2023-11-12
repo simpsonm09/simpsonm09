@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 <head>
 <link rel="stylesheet" href="style.css">
 </head>
 
-=======
->>>>>>> 8d04b29aa6f887d88a8aec7a99ed2a40423553ac
 <p>Welcome to my Github page!</p>
 
 <p>Software Developer | Data Enthusiast | Gamer | Cat Lover</p>
