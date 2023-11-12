@@ -1,4 +1,8 @@
-<header>Welcome to my Github page!</header>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<p>Welcome to my Github page!</p>
 
 <p>Software Developer | Data Enthusiast | Gamer | Cat Lover</p>
 
