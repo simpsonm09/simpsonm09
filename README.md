@@ -20,7 +20,7 @@
 <p>I'd love to talk about any of the projects on this Github.</p> 
 
 <p>
-I also have two projects from my Tech Elevator certification that are private for Academic Integrity reasons but I can share with prospective employers. These include:
+I also have two projects from my Tech Elevator certification that are private for Academic Integrity / Legal reasons so I am unable to share the code but I can still speak about them. These include:
 
 <ol>
 <li>Virtual Vending Machine - Mod 1 Capstone</li>
