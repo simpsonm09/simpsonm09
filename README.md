@@ -15,6 +15,22 @@
 
 <br>
 
+<h3>Projects</h3>
+
+<p>I'd love to talk about any of the projects on this Github.</p> 
+
+<p>
+I also have two projects from my Tech Elevator certification that are private for Academic Integrity reasons but I can share with prospective employers. These include:
+
+<ol>
+<li>Virtual Vending Machine - Mod 1 Capstone</li>
+<li>Mock Money Transfer Service Application (TEnmo) - Mod 2 Capstone</li>
+</ol>
+
+</p>
+
+<br>
+
 <h3>Technologies I'm familiar with:</h3>
 
 <p>Object-Oriented Programming: Java</p>
