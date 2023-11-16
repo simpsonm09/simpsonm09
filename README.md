@@ -15,7 +15,7 @@
 
 <br>
 
-<h3>Projects</h3>
+<h2>Projects</h2>
 
 <p>I'd love to talk about any of the projects on this Github.</p> 
 
@@ -31,7 +31,7 @@ I also have two projects from my Tech Elevator certification that are private fo
 
 <br>
 
-<h3>Technologies I'm familiar with:</h3>
+<h2>Technologies I'm familiar with:</h2>
 
 <p>Object-Oriented Programming: Java</p>
 <p>Web Application Development: HTML, CSS, JavaScript, Spring Boot, Vue.js</p>
@@ -40,7 +40,7 @@ I also have two projects from my Tech Elevator certification that are private fo
 
 <br>
 
-<h3>About Me:</h3>
+<h2>About Me:</h2>
 
 <p>I have always been fascinated with technology. As a child, I was an avid video gamer and enjoyed tinkering and challenging game systems. As I got older, I became more interested in computers and started building my own PCs. I enjoy creating tools to help improve others' outcomes with technology. In my previous position as a Technical Solutions Engineer at Epic, I developed software enhancements, bug-fixes, and other internal software troubleshooting tools in the Intersystems Caché database language to support our customers and coworkers. I'm passionate about creating and enhancing software to help users embrace technology and improve their lives. From this, I am looking for a position as a Software Developer where I can continue to enrich others and challenge myself, as well as bringing an analytical and personable eye to the products I work on.</p>
 
