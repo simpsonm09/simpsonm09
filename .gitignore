@@ -1,0 +1,4 @@
+# Local environment (real .env files stay local and are never committed)
+.env
+.env.*
+!.env.example
