@@ -2,4 +2,4 @@
 
 LinkedIn: https://www.linkedin.com/in/maxwellsimpson/
 
-GitHub Personal Projects: https://github.com/orgs/simpsonm09-org/repositories
+GitHub Personal Projects: https://github.com/orgs/simpsonm09-projects/repositories
