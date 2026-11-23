@@ -9,7 +9,7 @@ code and no CI.
 - `README.md`: the profile text and the owner's public links. Keep it short; it is a landing page.
 - `.env.example`: an example environment file; the real `.env` stays local and is ignored.
 - `.worktreeinclude`: the files a worktree checkout carries over (`.env`).
-- `lefthook.yml`: loads the shared hook jobs from `simpsonm09/.github` at `hooks-v2`. The
+- `lefthook.yml`: loads the shared hook jobs from `simpsonm09/.github` at `hooks-v3`. The
   `core-policy` job refuses a push to `main` and refuses unsigned commits; `owner-signing`
   refuses a commit when this checkout cannot sign.
 - `docs/exceptions.md`: rules this repository cannot meet, with reasons and revisit dates.
