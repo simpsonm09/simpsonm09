@@ -9,6 +9,9 @@ code and no CI.
 - `README.md`: the profile text and the owner's public links. Keep it short; it is a landing page.
 - `.env.example`: an example environment file; the real `.env` stays local and is ignored.
 - `.worktreeinclude`: the files a worktree checkout carries over (`.env`).
+- `lefthook.yml`: loads the shared hook jobs from `simpsonm09/.github` at `hooks-v2`. The
+  `core-policy` job refuses a push to `main` and refuses unsigned commits; `owner-signing`
+  refuses a commit when this checkout cannot sign.
 - `docs/exceptions.md`: rules this repository cannot meet, with reasons and revisit dates.
 
 ## Commands
@@ -18,6 +21,8 @@ code and no CI.
 - `just fmt` formats the repository; `just fmt-check` reports files that need it.
 - `just agent-files` checks `.agents/skills` against `.claude/skills` (empty here).
 - `just check` is the gate: `fmt-check` and `agent-files`.
+- `just hooks` installs the shared Lefthook hooks into `.git/hooks` for every worktree of this
+  clone; it never changes global Git settings.
 
 ## Invariants
 
@@ -29,4 +34,6 @@ code and no CI.
 
 - Push to `main`. It is a public repository with a ruleset: work on a branch and merge a pull
   request.
+- Skip hooks (C7.11): never set `LEFTHOOK=0`, never pass `--no-verify`, and never add a
+  `lefthook-local.yml`. The `pre-push` hook and the ruleset are the gate.
 - Change GitHub settings, repository visibility or access from a workflow, script or agent run.
